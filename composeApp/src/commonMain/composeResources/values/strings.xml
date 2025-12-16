@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wave Distortion Demo</string>
+    <string name="shader_controls">Shader Controls</string>
+    <string name="auto_waves">Auto waves</string>
+    <string name="auto_waves_desc">Continuously trigger waves without tapping.</string>
+    <string name="amplitude">Amplitude</string>
+    <string name="amplitude_tooltip">Initial strength of the wave displacement (in dp). Higher values push pixels farther from the tap point.</string>
+    <string name="angular_frequency">Angular Frequency</string>
+    <string name="angular_frequency_tooltip">Oscillation speed of the wave. Higher values create more rapid oscillations over time.</string>
+    <string name="decay_rate">Decay Rate</string>
+    <string name="decay_rate_tooltip">How quickly the wave fades. Larger numbers dampen the motion sooner.</string>
+    <string name="wave_speed">Wave Speed</string>
+    <string name="wave_speed_unit">× radius</string>
+    <string name="wave_speed_tooltip">How fast the wavefront travels across the image relative to its radius.</string>
+    <string name="tint_ratio">Tint Ratio</string>
+    <string name="tint_ratio_tooltip">Chromatic aberration intensity around the wave edges. Higher values exaggerate color separation.</string>
+</resources>
