@@ -62,3 +62,9 @@ or
 - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 - [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
 - [AGSL/SKSL](https://developer.android.com/develop/ui/views/graphics/agsl)
+
+## Demo
+
+[Try it out yourself with Web Demo](https://harukeyua.github.io/KmpShaderWaveDistortion/)
+
+https://github.com/user-attachments/assets/554db6e0-8599-47e4-8c5b-39d29f2824d6
