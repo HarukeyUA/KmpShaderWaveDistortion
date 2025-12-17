@@ -258,7 +258,7 @@ private fun WaveDistortionSample(
                     )
                     .onSizeChanged { onSizeChanged(it) }
                     .fillMaxSize(),
-            model = "https://picsum.photos/seed/50/1000/1000",
+            model = "https://picsum.photos/id/28/2000",
             contentScale = ContentScale.Crop,
             contentDescription = null,
         )
